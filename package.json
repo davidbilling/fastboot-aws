@@ -32,6 +32,6 @@
     "fastboot-s3-notifier": "^0.1.2"
   },
   "devDependencies": {
-    "aws-sdk": "^2.3.9"
+    "aws-sdk": "^2.4.0"
   }
 }
