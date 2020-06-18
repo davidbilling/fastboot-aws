@@ -81,6 +81,7 @@ configured via the AWS CLI.)
 Next, select your region. When prompted, choose the option to create a
 new application:
 
+
 ```
 Select an application to use
 1) [ Create new Application ]
