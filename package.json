@@ -25,13 +25,13 @@
   },
   "homepage": "https://github.com/tomdale/fastboot-aws#readme",
   "dependencies": {
-    "abortcontroller-polyfill": "^1.4.0",
+    "abortcontroller-polyfill": "^1.5.0",
     "fastboot-app-server": "^2.0.0",
     "fastboot-redis-cache": "^0.2.0",
     "fastboot-s3-downloader": "^0.2.2",
     "fastboot-s3-notifier": "^0.1.2"
   },
   "devDependencies": {
-    "aws-sdk": "^2.5.0"
+    "aws-sdk": "^2.7.0"
   }
 }
